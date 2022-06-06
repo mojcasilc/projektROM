@@ -17,3 +17,6 @@ Pri projektu bom uporabila računalniški program Mathematica.
 <h2>Povezava do video predstavitve projekta:</h3>
 
 https://youtu.be/o_yT5R__k9E
+
+
+Pripravila: Mojca Šilc
